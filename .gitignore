@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.csv
+build/
+dist/
+*.spec
+.vscode/
+.idea/
